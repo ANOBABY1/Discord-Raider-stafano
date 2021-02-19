@@ -9,7 +9,7 @@ import json
 import random
 import os
 
-os.system("title Spam Es Divertido - github.com/kieronia")
+os.system("title Spam Es Divertido - github.com/ANOBABY1")
 
 spamnow = False
 #lines = open('proxies.txt').read().splitlines()
@@ -70,19 +70,19 @@ def stop():
 
 
 def spamisfun():
-	print("[>] Opening spamis.fun")
-	webbrowser.open("https://spamis.fun/")
+	print("[>] Opening Discord StafAno")
+	webbrowser.open("https://discord.gg/WDmntsB2")
 
 
 
 root = Tk()
 
 root.geometry('658x414')
-root.configure(background='#f9f9f9')
-root.title('Server Spammer - Spam es divertido')
+root.configure(background='#0D0D0D')
+root.title('Server Spammer - STAFANO')
 
 
-Label(root, text='Server Spammer', bg='#FFFFFF', font=('arial', 12, 'bold')).place(x=256, y=31)
+Label(root, text='Server Spammer StafAno', bg='#FFFFFF', font=('arial', 12, 'bold')).place(x=256, y=31)
 
 
 channelids=Entry(root)
