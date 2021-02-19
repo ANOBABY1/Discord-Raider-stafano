@@ -105,7 +105,7 @@ Label(root, text='Channel ID:', bg='#FFFFFF', font=('arial', 10, 'normal')).plac
 Label(root, text='Message:', bg='#FFFFFF', font=('arial', 10, 'normal')).place(x=252, y=188)
 
 
-Button(root, text='Visit the OFFICIAL spamis.fun', bg='#FCFCFC', font=('arial', 10, 'bold'), command=spamisfun).place(x=422, y=0)
+Button(root, text='Visit the OFFICIAL StafAno', bg='#FCFCFC', font=('arial', 10, 'bold'), command=spamisfun).place(x=422, y=0)
 
 with open("tokens.txt", 'r') as f:
 	number = 0
