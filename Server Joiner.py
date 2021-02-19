@@ -53,19 +53,19 @@ def start():
 
 
 def spamisfun():
-	print("[>] Opening spamis.fun")
-	webbrowser.open("https://spamis.fun/")
+	print("[>] Opening Discord STAFANO")
+	webbrowser.open("https://discord.gg/uksxffyU")
 
 
 
 root = Tk()
 
 root.geometry('658x414')
-root.configure(background='#f9f9f9')
-root.title('Server Spammer - Spam es divertido')
+root.configure(background='#4E04F9')
+root.title('Server Spammer - STAFANO')
 
 
-Label(root, text='Server Joiner', bg='#FFFFFF', font=('arial', 12, 'bold')).place(x=256, y=31)
+Label(root, text='Server Joiner Stafano', bg='#FFFFFF', font=('arial', 12, 'bold')).place(x=256, y=31)
 
 
 discordlink=Entry(root)
@@ -83,7 +83,7 @@ Label(root, text='Invite Link:', bg='#FFFFFF', font=('arial', 10, 'normal')).pla
 
 
 
-Button(root, text='Visit the OFFICIAL spamis.fun', bg='#FCFCFC', font=('arial', 10, 'bold'), command=spamisfun).place(x=422, y=0)
+Button(root, text='Visit the OFFICIAL STAFANO', bg='#FCFCFC', font=('arial', 10, 'bold'), command=spamisfun).place(x=422, y=0)
 
 
 
